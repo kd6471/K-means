@@ -1,0 +1,8 @@
+﻿  DS_timer.cpp
+  K_means.cpp
+D:\GEMINI\DOCUMENTS\2021_1학기\멀티코어프로그래밍\OpenMP_Team\kmeans-omp-v3\K_means.cpp(27,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+D:\GEMINI\DOCUMENTS\2021_1학기\멀티코어프로그래밍\OpenMP_Team\kmeans-omp-v3\K_means.cpp(150,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pGNUPlot.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+  kmeans.vcxproj -> D:\GEMINI\DOCUMENTS\2021_1학기\멀티코어프로그래밍\OpenMP_Team\kmeans-omp-v3\x64\Debug\kmeans.exe
